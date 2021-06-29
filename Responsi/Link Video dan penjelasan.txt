@@ -1,3 +1,7 @@
+Nama: Yusuf Adi D
+NIM : 123190155
+PLUG: C
+
 untuk detail barang belum bisa buat dikarenakan tidak mengetahui cara mengambil data tunggal
 dari dalam tabel beserta primary key(id) dalam JAVA
 sehingga pembelian, update data, hapus data juga tidak bisa saya buat
